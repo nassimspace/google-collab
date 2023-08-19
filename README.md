@@ -1,2 +1,2 @@
-# google-collab
-Google Collab Notebooks Collection
+# google-colab
+Google Colab Notebooks Collection
