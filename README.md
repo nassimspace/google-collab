@@ -1,2 +1,2 @@
 # google-colab
-Intricately Useful Google Colab Notebooks Collection
+Intricately Useful & Creative Google Colab Notebooks Collection
